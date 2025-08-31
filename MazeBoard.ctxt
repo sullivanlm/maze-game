@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MazeBoard
+comment1.params=width
+comment1.target=MazeBoard(int)
+comment2.params=
+comment2.target=MazeBoard()
+comment3.params=
+comment3.target=void\ randomizeWalls()
+comment4.params=directions\ currentCell
+comment4.target=void\ addFronteir(int[][],\ int[])
+comment5.params=
+comment5.target=void\ playMaze()
+comment6.params=
+comment6.target=int[][]\ getBoard()
+comment7.params=
+comment7.target=void\ makeBoard()
+numComments=8
