@@ -9,7 +9,7 @@
 public class MazeRunner
 {
     public static void main(String[]args){
-        MazeBoard maze = new MazeBoard(); 
+        MazeBoard maze = new MazeBoard(60); 
         maze.randomizeWalls();  
         maze.makeBoard(); 
         maze.playMaze(); 
